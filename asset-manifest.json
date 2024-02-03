@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.b1d7ec7b.css",
+    "main.js": "/reactweb/static/js/main.00e175e3.js",
+    "static/media/face.png": "/reactweb/static/media/face.65760f5153ed9eaa1e23.png",
+    "static/media/wood.png": "/reactweb/static/media/wood.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/reactweb/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/cake.png": "/reactweb/static/media/cake.6554473016d32b343f02.png",
+    "index.html": "/reactweb/index.html",
+    "main.b1d7ec7b.css.map": "/reactweb/static/css/main.b1d7ec7b.css.map",
+    "main.00e175e3.js.map": "/reactweb/static/js/main.00e175e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.00e175e3.js"
+  ]
+}
