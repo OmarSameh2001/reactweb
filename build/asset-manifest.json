@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.b1d7ec7b.css",
-    "main.js": "/react/static/js/main.959f9e5f.js",
-    "static/media/face.png": "/react/static/media/face.65760f5153ed9eaa1e23.png",
-    "static/media/wood.png": "/react/static/media/wood.4417330275f78faa31c3.png",
-    "static/media/circus.png": "/react/static/media/circus.494a4a914b5471b41f3e.png",
-    "static/media/cake.png": "/react/static/media/cake.6554473016d32b343f02.png",
-    "index.html": "/react/index.html",
-    "main.b1d7ec7b.css.map": "/react/static/css/main.b1d7ec7b.css.map",
-    "main.959f9e5f.js.map": "/react/static/js/main.959f9e5f.js.map"
+    "main.css": "/React-Website/static/css/main.b1d7ec7b.css",
+    "main.js": "/React-Website/static/js/main.fa49986e.js",
+    "static/media/face.png": "/React-Website/static/media/face.65760f5153ed9eaa1e23.png",
+    "static/media/wood.png": "/React-Website/static/media/wood.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/React-Website/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/cake.png": "/React-Website/static/media/cake.6554473016d32b343f02.png",
+    "index.html": "/React-Website/index.html",
+    "main.b1d7ec7b.css.map": "/React-Website/static/css/main.b1d7ec7b.css.map",
+    "main.fa49986e.js.map": "/React-Website/static/js/main.fa49986e.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.959f9e5f.js"
+    "static/js/main.fa49986e.js"
   ]
 }
