@@ -12,6 +12,10 @@ export default function App() {
   const route = createBrowserRouter([
     {path:'/', element:<Layout/>, children:[
       {
+        path: '/*',
+        element:<Header/>
+      },
+      {
         path:'/',
         element:<Header/>
       },
